@@ -1,4 +1,6 @@
 html,body {
   background: #ccc;
   font-size: 20px;
+  color: blueviolet;
+  display: block;
 }
